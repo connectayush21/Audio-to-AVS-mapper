@@ -1,4 +1,4 @@
-Speech-to-[A,V,S] Mapper is an interactive social robotics application that interprets how a person speaks rather than only what they say. It analyzes vocal characteristics—pitch, pitch variation, loudness, and pitch contour—and classifies the speaker’s intent as approval, prohibition, attention, comfort, or neutral communication.
+Audio-to-[A,V,S] Mapper is an interactive social robotics application that interprets how a person speaks rather than only what they say. It analyzes vocal characteristics—pitch, pitch variation, loudness, and pitch contour—and classifies the speaker’s intent as approval, prohibition, attention, comfort, or neutral communication.
 
 Each intent is mapped to a three-dimensional affective tag:
 
